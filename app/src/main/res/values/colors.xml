@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#008F24</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--todoApp-->
+    <color name="redLight">#f94144</color>
+    <color name="orange">#f3722c</color>
+    <color name="orangeLight">#f8961e</color>
+    <color name="yellow">#f9c74f</color>
+    <color name="green">#90be6d</color>
+    <color name="turk">#43aa8b</color>
+    <color name="gray">#577590</color>
+    <color name="lightGray">#D1CACA</color>
+
+    <!--clock-->
+    <color name="orangeClock">#ff8811</color>
+    <color name="purpleClock">#392f5a</color>
+    <color name="whiteClock">#fff8f0</color>
+    <color name="greenLightClock">#9dd9d2</color>
+    <color name="turkClock">#006e90</color>
+
+
+    <color name="colorPrimary">#B2212121</color>
+    <color name="colorPrimaryDArk">#B2212121</color>
+    <color name="colorPrimaryAccent">#008F24</color>
+
+    <color name="toolbar_color_control_normal">#000000</color>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/drawable/circular_progress_bar.xml" value="0.1" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/drawable/circular_progress_gray.xml" value="0.1" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/drawable/drawable_radio_group_tab_background.xml" value="0.1" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/drawable/drawable_units_tab_selector.xml" value="0.1" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/drawable/drawable_units_tab_text_color_selector.xml" value="0.1" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/drawable/ic_check_24.xml" value="0.1" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/drawable/ic_history_24.xml" value="0.185" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.1" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.1" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/drawable/item_circular_thin_color_accent_border.xml" value="0.1" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/layout/activity_bmi.xml" value="0.264" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/layout/activity_exercise.xml" value="0.18" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/layout/activity_finish_execise.xml" value="0.2791666666666667" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/layout/activity_finish_exercise.xml" value="0.33" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/layout/activity_history.xml" value="0.22" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/layout/dialog_custom_back_confirmation.xml" value="0.20199275362318841" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/layout/item_exercise_status.xml" value="0.13950554994954592" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/layout/item_history.xml" value="0.1" />
+        <entry key="..\:/The Complete Android 12 &amp; Kotlin Development Masterclass/seven minutes workout/app/src/main/res/layout/item_history_row.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
